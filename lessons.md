@@ -12,3 +12,8 @@ To switch to main branch
 git config --global init.defaultBranch main
 git branch -m master main
 ```
+## Push local to cloud repo
+```bash
+git remote add origin link_repo_cloud(github or gitlab)
+git push -u origin main
+```
