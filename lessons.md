@@ -17,3 +17,14 @@ git branch -m master main
 git remote add origin link_repo_cloud(github or gitlab)
 git push -u origin main
 ```
+
+## Create Branch
+To create branch and switch branch
+```bash
+git branch branch-name
+git checkout branch-name
+```
+To create and automatic switch to that branch
+```bash
+git checkout -b branch-name
+```
