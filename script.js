@@ -7,4 +7,5 @@ for(let i = 1; i <= 100; i++){
 }
 
 console.log("TODO:");
-console.log("Learm about merge branch!")
+console.log("Learm about merge branch!");
+console.log("I'm adding this from heak-script branch!")
